@@ -2,6 +2,8 @@
 
 A responsive web-based Tic-Tac-Toe game developed using HTML, CSS, and JavaScript. The application provides an interactive two-player gaming experience with real-time move validation, win detection, draw handling, and game reset functionality.
 
+### 🚀 [Live Demo](https://furqhan24.github.io/tic-tac-toe/) | 📂 [Source Code](https://github.com/furqhan24/tic-tac-toe)
+
 ## Features
 
 * Interactive two-player gameplay
